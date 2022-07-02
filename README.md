@@ -1,11 +1,12 @@
 ### PRODRAMP by @AvkashChauhan 👋 👋 <img src="https://komarev.com/ghpvc/?username=prodramp" alt="prodramp" /> 
 
+- ⚡ Please visit my personal GitHub - https://github.com/avkash
 - 🔭 I’m currently working on my YouTube channel focussing AI/ML content
 - 🌱 Please visit my YouTube channel - https://www.youtube.com/channel/UClLqLPWRsta-inJcDrqh6Pg
 - 📜 My Blog: https://blogs.prodramp.com/
 - 💬 Ask me about your AI/ML Problem and I will be happy to help you.
 - 📫 How to reach me: @avkashchauhan / @prodramp
-- ⚡ Fun fact: I enjoy solving tech problems and create tech content
+- 😄 Fun fact: I enjoy solving tech problems and create tech content
 
 [![Avkash Chauhan github stats](https://github-readme-stats.vercel.app/api?username=avkash&hide=issues,contribs)](https://github.com/avkash/github-readme-stats)
 
