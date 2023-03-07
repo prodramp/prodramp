@@ -2,7 +2,7 @@
 
 - ⚡ Please visit my personal GitHub - https://github.com/avkash
 - 🔭 I’m currently working on my YouTube channel focussing AI/ML content
-- 🌱 Please visit my YouTube channel - https://www.youtube.com/channel/UClLqLPWRsta-inJcDrqh6Pg
+- 🌱 Please visit my YouTube channel - https://www.youtube.com/@prodramp 
 - 📜 My Blog: https://blogs.prodramp.com/
 - 💬 Ask me about your AI/ML Problem and I will be happy to help you.
 - 📫 How to reach me: @avkashchauhan / @prodramp
